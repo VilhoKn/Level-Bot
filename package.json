@@ -1,0 +1,24 @@
+{
+  "name": "level-bot",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000L\u0000e\u0000v\u0000e\u0000l\u0000-\u0000B\u0000o\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VilhoKn/Level-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VilhoKn/Level-Bot/issues"
+  },
+  "homepage": "https://github.com/VilhoKn/Level-Bot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord.js": "^13.7.0"
+  }
+}
