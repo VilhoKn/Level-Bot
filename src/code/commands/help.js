@@ -45,10 +45,12 @@ module.exports = {
 				//.setDescription(desc)
 				.addFields(
 					{ name: 'Setup', value: 'Setup your server with level monitoring in the Level Bot dashboard', inline: true },
-					{ name: 'Start Monitoring', value: 'Start to monitor user levels and configure level awards', inline: true },
+					{ name: 'Start Monitoring', value: 'Start to monitor user levels and configure new level awards', inline: true },
 					{ name: 'Moderate', value: 'Add new awards along the way and build a strong community', inline: true },
-					//{ name: 'w', value: 'w', inline: true },
-					//{ name: 'w', value: 'w', inline: true }, // </kick:0>
+					{ name: 'Usage', value: 'The dashboard is easy to use and has helpful tips to make your server more interactable. You can login with your discord account and add administrators to have multiple people working on the same server'},
+					{ name: 'Support', value: 'For any questions or help please contact the support team\nin the discord server https://discord.gg/invite'},
+					{ name: 'Links', value: '[Invite the bot](https://google.com) - [Go to dashboard](https://google.com)'},
+					//{ name: 'w', value: 'w', inline: true }, // </kick:0>[Invite the bot](https://google.com) - [Go to dashboard](https://google.com)
 				)
 				.setColor(0x2f3136)
 				
